@@ -3,8 +3,8 @@
 * main - print all single digit numbers of base 10 starting from 0
 *
 * Description : using main funtion
-* This program is a script to print all single digit numbers of base 10
-* return: 0
+* This program "print all single digit numbers of base 10"
+* Return: 0
 */
 int main(void)
 {
