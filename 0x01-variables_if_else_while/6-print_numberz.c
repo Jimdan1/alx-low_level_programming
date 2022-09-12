@@ -6,12 +6,10 @@
 * This program is a script to print all single digit numbers of base 10
 * return: 0
 */
-
 int main(void)
-
 {
-int d;
-for (d = 0; d <= 9; d++)
+int x;
+for (x = '0'; x <= '9'; x++)
 {
 putchar(d);
 }
